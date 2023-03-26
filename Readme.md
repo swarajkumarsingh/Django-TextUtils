@@ -1,7 +1,7 @@
 # TextUtils - Django
 
 ## About
-- I just started Django and here is a simple server (Django) and client (html, bootstrap) application.
+- I just started Django and here is a simple server (Django) and client (html, bootstrap) application, which alters the text according to you, like (remove pucs, remove spaces, uppercase all letters, and many more), do check it out.
 
 ## Installation
 
